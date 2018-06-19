@@ -1,4 +1,6 @@
+
 const efficientSearch = (array, item) => {
+
 	let minIndex = 0;
 	let maxIndex = array.length - 1;
 	let currentIndex;
